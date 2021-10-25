@@ -18,4 +18,4 @@
 
 ## Documentation
 
-- [LayoutOptions](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.Model.LayoutOptions)
+- [LayoutOptions](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.Model.LayoutOptions?v=21.2)
