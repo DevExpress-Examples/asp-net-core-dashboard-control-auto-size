@@ -1,0 +1,14 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Designer";
+}
+
+<div style="border: 1px solid #ccc;">    
+    @(Html.DevExpress().Dashboard("dashboardControl1")
+        .ControllerName("DefaultDashboard")
+        .Width("100%")
+        .Height("800px")
+        .WorkingMode(WorkingMode.Designer)
+    )
+</div>

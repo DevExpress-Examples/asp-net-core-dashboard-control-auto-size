@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Viewer";
+}
+
+<script>
+    const onDashboardInitialized = (args) => {
+        const element = document.getElementById('dashboardControl1');
+        const dashboard = args.dashboard;
+        element.style.width = dashboard.layoutOptions.width.mode() === 'Auto' ? '100%' : dashboard.layoutOptions.width.value() + "px";
+        element.style.height = dashboard.layoutOptions.height.mode() === 'Auto' ? '800px' : dashboard.layoutOptions.height.value() + "px";
+    
+    }
+</script>
+<div class="dashboard-viewer-center">
+    @(Html.DevExpress().Dashboard("dashboardControl1")
+            .ControllerName("DefaultDashboard")
+            .Width("100%")
+            .Height("100%")
+            .WorkingMode(WorkingMode.ViewerOnly)
+            .OnDashboardInitialized("onDashboardInitialized")
+    )
+</div>
