@@ -1,3 +1,6 @@
+<!-- default badges list -->
+[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+<!-- default badges end -->
 # Dashboard for ASP.NET Core - How to Calculate Layout Size based on 
 
 This example shows how to set the control in Viewer mode to the same size as the dashboard. This method allows you to avoid two scroll bars on the page. 
