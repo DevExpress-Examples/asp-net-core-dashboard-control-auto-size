@@ -22,8 +22,6 @@ When you change the size in Designer mode, switch the control to Viewer mode. Th
 - [Designer.cshtml](./CS/AspNetCoreDashboardControlAutoSize/Designer.cshtml)
 <!-- default file list end --> 
 
-
-
 ## Documentation
 
-- [LayoutOptions](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.Model.LayoutOptions)
+- [LayoutOptions](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.Model.LayoutOptions?v=21.2)
