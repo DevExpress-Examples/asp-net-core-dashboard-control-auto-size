@@ -5,7 +5,15 @@
 <!-- default badges end -->
 # Dashboard for ASP.NET Core - How to Calculate Layout Size based on 
 
+This example shows how to set the control in Viewer mode to the same size as the dashboard and display only one scroll bar on the page. 
 
+You can open the control in Designer mode to resize the dashboard. In this mode, the control occupies the HTML page's visible area.
+
+![](img/designer.png)
+
+When you change the size in Designer mode, switch the control to Viewer mode to make the size of the control the same as the dashboard.
+
+![](img/viewer.png)
 
 <!-- default file list -->
 ## Files to Look At
@@ -13,8 +21,6 @@
 - [Index.cshtml](./CS/AspNetCoreDashboardControlAutoSize/Index.cshtml)
 - [Designer.cshtml](./CS/AspNetCoreDashboardControlAutoSize/Designer.cshtml)
 <!-- default file list end --> 
-
-
 
 ## Documentation
 
