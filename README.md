@@ -18,8 +18,8 @@ When you change the size in Designer mode, switch the control to Viewer mode to 
 <!-- default file list -->
 ## Files to Look At
 
-- [Index.cshtml](./CS/AspNetCoreDashboardControlAutoSize/Index.cshtml)
-- [Designer.cshtml](./CS/AspNetCoreDashboardControlAutoSize/Designer.cshtml)
+- [Index.cshtml](./CS/AspNetCoreDashboardControlAutoSize/Pages/Index.cshtml)
+- [Designer.cshtml](./CS/AspNetCoreDashboardControlAutoSize/Pages/Designer.cshtml)
 <!-- default file list end --> 
 
 ## Documentation
