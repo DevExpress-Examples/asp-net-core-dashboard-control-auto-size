@@ -15,12 +15,10 @@ When you change the size in Designer mode, switch the control to Viewer mode to 
 
 ![](img/viewer.png)
 
-<!-- default file list -->
-## Files to Look At
+## Files to Review
 
 - [Index.cshtml](./CS/AspNetCoreDashboardControlAutoSize/Pages/Index.cshtml)
 - [Designer.cshtml](./CS/AspNetCoreDashboardControlAutoSize/Pages/Designer.cshtml)
-<!-- default file list end --> 
 
 ## Documentation
 
