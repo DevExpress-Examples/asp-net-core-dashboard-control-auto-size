@@ -74,7 +74,7 @@ namespace asp_net_core_dashboard_control_auto_size {
 
             app.UseRouting();
             app.UseEndpoints(endpoints => {
-                EndpointRouteBuilderExtension.MapDashboardRoute(endpoints, "dashboardControl", "DefaultDashboard");
+                endpoints.MapDashboardRoute("dashboardControl", "DefaultDashboard");
                 endpoints.MapRazorPages();
                 endpoints.MapControllerRoute(
                     name: "default",
