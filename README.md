@@ -23,7 +23,7 @@ When you change the size in Designer mode, switch the control to Viewer mode to 
 
 ## Documentation
 
-- [LayoutOptions](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.Model.LayoutOptions?v=21.2)
+- [LayoutOptions](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.Model.LayoutOptions)
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
@@ -31,3 +31,4 @@ When you change the size in Designer mode, switch the control to Viewer mode to 
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
